@@ -2,26 +2,18 @@
   <img src="./assets/banner.png" width="100%">
 </p>
 
-<h1 align="center">Nerc</h1>
-
-<p align="center">
-  <b>Java Developer</b> · <b>Minecraft Plugin Developer</b> · <b>Software Tester</b>
-</p>
-
----
-
 ### about
 
 Java developer focused on Minecraft plugin development, server infrastructure and software testing.
 
-I build Minecraft plugins, develop Java applications, configure server systems, debug issues and work on improving the reliability and quality of software.
+I develop plugins, work with Java applications, configure server systems, investigate bugs and test software to improve stability and reliability.
 
-- ☕ Java Developer
-- ⛏️ Minecraft Plugin Developer
-- 🧪 Software Tester / QA
-- 🖥️ Minecraft Server Development
-- 🔧 Debugging & Problem Solving
-- 🐙 Git & GitHub
+- Java development
+- Minecraft plugin development
+- Software testing & QA
+- Server infrastructure
+- Debugging & troubleshooting
+- Git & GitHub
 
 [github.com/IvanZhechev](https://github.com/IvanZhechev)
 
@@ -30,44 +22,33 @@ I build Minecraft plugins, develop Java applications, configure server systems, 
 ### core skills
 
 <p align="left">
-  <img src="./assets/java.svg" width="42" height="42" alt="Java">
-  &nbsp;
-  <img src="./assets/intellij.svg" width="42" height="42" alt="IntelliJ IDEA">
-  &nbsp;
-  <img src="./assets/paper.svg" width="42" height="42" alt="Paper">
-  &nbsp;
-  <img src="./assets/spigot.svg" width="42" height="42" alt="Spigot">
-  &nbsp;
-  <img src="./assets/bukkit.svg" width="42" height="42" alt="Bukkit">
-  &nbsp;
-  <img src="./assets/velocity.svg" width="42" height="42" alt="Velocity">
-  &nbsp;
-  <img src="./assets/git.svg" width="42" height="42" alt="Git">
-  &nbsp;
-  <img src="./assets/github.svg" width="42" height="42" alt="GitHub">
-  &nbsp;
-  <img src="./assets/maven.svg" width="42" height="42" alt="Maven">
-  &nbsp;
-  <img src="./assets/gradle.svg" width="42" height="42" alt="Gradle">
-  &nbsp;
-  <img src="./assets/qa.svg" width="42" height="42" alt="QA">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/java.svg" width="42" height="42" alt="Java">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/intellijidea.svg" width="42" height="42" alt="IntelliJ IDEA">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="42" height="42" alt="Git">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="42" height="42" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/apachemaven.svg" width="42" height="42" alt="Maven">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gradle.svg" width="42" height="42" alt="Gradle">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" width="42" height="42" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg" width="42" height="42" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/docker.svg" width="42" height="42" alt="Docker">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/selenium.svg" width="42" height="42" alt="Selenium">
 </p>
 
 - **languages:** Java · JavaScript · SQL · YAML · JSON
 - **minecraft:** Paper · Spigot · Bukkit · Velocity · LuckPerms
-- **tools:** Git · GitHub · Maven · Gradle · IntelliJ IDEA
-- **testing:** QA · Manual Testing · Bug Hunting · Debugging · Unit Testing
+- **tools:** Git · GitHub · Maven · Gradle · IntelliJ IDEA · Docker
+- **testing:** Selenium · Manual Testing · QA · Bug Hunting · Debugging
 - **server:** Minecraft Servers · Plugin Configuration · Server Infrastructure
-- **development:** Backend Development · API Integration · Automation · Problem Solving
+- **development:** APIs · Automation · Backend Development · Problem Solving
 
 ---
 
 ### currently working on
 
-- **PaperWorld** — Minecraft server ecosystem, custom plugins and server infrastructure
+- **PaperWorld** — Minecraft server ecosystem and custom server infrastructure
 - Custom Minecraft plugins and server systems
 - Java development and backend projects
-- Software testing, debugging and quality improvements
+- Software testing and debugging
 
 ---
 
@@ -77,21 +58,21 @@ I build Minecraft plugins, develop Java applications, configure server systems, 
 <tr>
 <td width="50%" valign="top">
 
-<h3>⛏️ PaperWorld</h3>
+<h3>PaperWorld</h3>
 
-Minecraft server project focused on custom gameplay, plugins, server infrastructure and a high-quality player experience.
+Minecraft server project focused on custom gameplay, plugins, server infrastructure and overall server quality.
 
-<b>Focus:</b> Java · Paper · Plugins · Server Infrastructure
+<b>Java</b> · <b>Paper</b> · <b>Plugins</b> · <b>Infrastructure</b>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🤖 DiscordRolesBot</h3>
+<h3>DiscordRolesBot</h3>
 
-Discord bot created for server management, role automation and community features.
+Discord bot for server management, role automation and community features.
 
-<b>Focus:</b> Discord · Automation · Bot Development
+<b>Discord</b> · <b>Automation</b> · <b>Bot Development</b>
 
 </td>
 </tr>
@@ -101,39 +82,38 @@ Discord bot created for server management, role automation and community feature
 
 ### development stack
 
-**Languages**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/java.svg" width="32" height="32" alt="Java">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" width="32" height="32" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg" width="32" height="32" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="32" height="32" alt="Git">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="32" height="32" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/apachemaven.svg" width="32" height="32" alt="Maven">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gradle.svg" width="32" height="32" alt="Gradle">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/docker.svg" width="32" height="32" alt="Docker">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/selenium.svg" width="32" height="32" alt="Selenium">
+</p>
 
-`Java` `JavaScript` `SQL` `YAML` `JSON`
+**Java** · **JavaScript** · **SQL** · **YAML** · **JSON**
 
-**Minecraft**
+**Paper** · **Spigot** · **Bukkit** · **Velocity** · **LuckPerms**
 
-`Paper` `Spigot` `Bukkit` `Velocity` `LuckPerms`
+**Git** · **GitHub** · **Maven** · **Gradle** · **IntelliJ IDEA** · **Docker**
 
-**Build & Tools**
-
-`Maven` `Gradle` `Git` `GitHub` `IntelliJ IDEA`
-
-**Testing**
-
-`QA` `Manual Testing` `Bug Hunting` `Debugging` `Unit Testing`
+**Selenium** · **QA** · **Manual Testing** · **Debugging**
 
 ---
 
 ### interests
 
-- Software development
-- Minecraft plugin development
-- Server architecture
-- Testing & quality assurance
-- Debugging and optimization
-- Automation and backend systems
+Software development · Minecraft plugin development · Server architecture · QA · Debugging · Automation · Backend systems
 
 ---
 
 <p align="center">
-  <b>Java · Minecraft · QA · Development</b>
+  <b>Java · Development · Testing</b>
 </p>
 
 <p align="center">
-  <i>Building reliable software and improving systems.</i>
+  <i>Build. Test. Improve.</i>
 </p>
