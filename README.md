@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%">
+</p>
 <div align="center">
+### about
+
+Java developer focused on Minecraft plugin development, server infrastructure and software testing.
+
+I build plugins, debug systems and work on improving the reliability and quality of software.
+
+[github.com/IvanZhechev](https://github.com/IvanZhechev)
 
 # Nerc
 
