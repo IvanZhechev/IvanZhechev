@@ -2,6 +2,14 @@
   <img src="./assets/banner.png" width="100%">
 </p>
 
+<h1 align="center">Nerc</h1>
+
+<p align="center">
+  <b>Java Developer</b> · <b>Minecraft Plugin Developer</b> · <b>Software Tester</b>
+</p>
+
+---
+
 ### about
 
 Java developer focused on Minecraft plugin development, server infrastructure and software testing.
@@ -22,14 +30,27 @@ I build Minecraft plugins, develop Java applications, configure server systems, 
 ### core skills
 
 <p align="left">
-  ☕ &nbsp;
-  💻 &nbsp;
-  🔌 &nbsp;
-  🚀 &nbsp;
-  🐙 &nbsp;
-  📦 &nbsp;
-  🧪 &nbsp;
-  🛠️
+  <img src="./assets/java.svg" width="42" height="42" alt="Java">
+  &nbsp;
+  <img src="./assets/intellij.svg" width="42" height="42" alt="IntelliJ IDEA">
+  &nbsp;
+  <img src="./assets/paper.svg" width="42" height="42" alt="Paper">
+  &nbsp;
+  <img src="./assets/spigot.svg" width="42" height="42" alt="Spigot">
+  &nbsp;
+  <img src="./assets/bukkit.svg" width="42" height="42" alt="Bukkit">
+  &nbsp;
+  <img src="./assets/velocity.svg" width="42" height="42" alt="Velocity">
+  &nbsp;
+  <img src="./assets/git.svg" width="42" height="42" alt="Git">
+  &nbsp;
+  <img src="./assets/github.svg" width="42" height="42" alt="GitHub">
+  &nbsp;
+  <img src="./assets/maven.svg" width="42" height="42" alt="Maven">
+  &nbsp;
+  <img src="./assets/gradle.svg" width="42" height="42" alt="Gradle">
+  &nbsp;
+  <img src="./assets/qa.svg" width="42" height="42" alt="QA">
 </p>
 
 - **languages:** Java · JavaScript · SQL · YAML · JSON
@@ -43,7 +64,7 @@ I build Minecraft plugins, develop Java applications, configure server systems, 
 
 ### currently working on
 
-- **PaperWorld** — Minecraft server ecosystem, plugins and infrastructure
+- **PaperWorld** — Minecraft server ecosystem, custom plugins and server infrastructure
 - Custom Minecraft plugins and server systems
 - Java development and backend projects
 - Software testing, debugging and quality improvements
@@ -56,21 +77,21 @@ I build Minecraft plugins, develop Java applications, configure server systems, 
 <tr>
 <td width="50%" valign="top">
 
-### ⛏️ PaperWorld
+<h3>⛏️ PaperWorld</h3>
 
 Minecraft server project focused on custom gameplay, plugins, server infrastructure and a high-quality player experience.
 
-**Focus:** Java · Paper · Plugins · Server Infrastructure
+<b>Focus:</b> Java · Paper · Plugins · Server Infrastructure
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 DiscordRolesBot
+<h3>🤖 DiscordRolesBot</h3>
 
 Discord bot created for server management, role automation and community features.
 
-**Focus:** Discord · Automation · Bot Development
+<b>Focus:</b> Discord · Automation · Bot Development
 
 </td>
 </tr>
