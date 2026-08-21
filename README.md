@@ -1,88 +1,61 @@
-<h1 align="center">Nerc</h1>
+<h2>about</h2>
 
-<p align="center">
-  <strong>Java Developer</strong> · <strong>Minecraft Plugin Developer</strong> · <strong>Software Tester</strong>
+<p>
+Java developer, Minecraft plugin developer and software tester.
+I build Minecraft plugins, work with server infrastructure and
+focus on creating reliable and well-tested software.
 </p>
 
-<p align="center">
-  Building Minecraft plugins, working with Java and testing software.
+<p>
+<a href="https://github.com/IvanZhechev">github.com/IvanZhechev</a>
 </p>
 
 ---
+
+<h2>core skills</h2>
+
+<p>
+☕ &nbsp;
+⛏️ &nbsp;
+🔌 &nbsp;
+🚀 &nbsp;
+🐙 &nbsp;
+🧪 &nbsp;
+💻 &nbsp;
+📦
+</p>
+
+<ul>
+<li><b>languages:</b> Java · JavaScript · SQL · YAML · JSON</li>
+<li><b>minecraft:</b> Paper · Spigot · Bukkit · Velocity · LuckPerms</li>
+<li><b>tools:</b> Git · GitHub · Maven · Gradle · IntelliJ IDEA</li>
+<li><b>testing:</b> QA · Manual Testing · Bug Hunting · Debugging</li>
+<li><b>server:</b> Minecraft Servers · Plugin Configuration · Server Infrastructure</li>
+</ul>
+
+---
+
+<h2>featured projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## About Me
-
-☕ Java Developer
-⛏️ Minecraft Plugin Developer
-🧪 Software Tester / QA
-🖥️ Minecraft Server Development
-🔧 Debugging & Problem Solving
-
-I enjoy building reliable software, developing Minecraft systems and working on projects where development and testing come together.
-
-</td>
-
-<td width="50%" valign="top">
-
-## Currently
-
-🔨 Working on Minecraft projects
-☕ Improving my Java skills
-🧪 Testing and debugging software
-🚀 Building new projects
-📚 Learning new technologies
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Core Skills
-
-### Languages
-
-`Java` · `JavaScript` · `SQL` · `YAML` · `JSON`
-
-### Minecraft Development
-
-`Paper` · `Spigot` · `Bukkit` · `Velocity` · `LuckPerms`
-
-### Tools
-
-`Git` · `GitHub` · `Maven` · `Gradle` · `IntelliJ IDEA`
-
-### Testing
-
-`Manual Testing` · `QA` · `Bug Hunting` · `Debugging` · `Problem Solving`
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⛏️ PaperWorld
+### PaperWorld
 
 Minecraft server project focused on custom gameplay, plugins, server infrastructure and a high-quality player experience.
 
-**Java · Paper · Plugins · Infrastructure**
+`Java` · `Paper` · `Plugins`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 DiscordRolesBot
+### DiscordRolesBot
 
-Discord bot created for server management, role automation and community features.
+Discord bot for server management, role automation and community features.
 
-**Discord · Automation · Bot**
+`Discord` · `Automation` · `Bot`
 
 </td>
 </tr>
@@ -90,53 +63,6 @@ Discord bot created for server management, role automation and community feature
 
 ---
 
-## 🔧 What I Work With
-
-```text
-Java
- ├── Minecraft Plugins
- ├── Paper / Spigot
- ├── Bukkit API
- └── Velocity
-
-Testing
- ├── Manual Testing
- ├── Bug Hunting
- ├── Debugging
- └── Quality Assurance
-
-Development
- ├── Git / GitHub
- ├── Maven / Gradle
- └── IntelliJ IDEA
-```
-
----
-
-## 📊 GitHub
-
 <p align="center">
-  <strong>Code • Test • Improve • Repeat</strong>
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-
-<a href="https://github.com/IvanZhechev">
-GitHub
-</a>
-
-  •  
-
-Discord
-
-</p>
-
----
-
-<p align="center">
-  <i>Building better projects, one commit at a time.</i>
+<i>building, testing and improving.</i>
 </p>
