@@ -46,3 +46,11 @@ I develop plugins, work with Java applications, configure server systems, invest
 <p align="center">
   <sub>Java · Development · Testing</sub>
 </p>
+
+---
+
+### activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanZhechev&theme=github-compact&hide_border=true&area=true" width="100%">
+</p>
