@@ -1,94 +1,142 @@
-# Nerc
+<h1 align="center">Nerc</h1>
 
-### Java Developer · Minecraft Plugin Developer · Software Tester
+<p align="center">
+  <strong>Java Developer</strong> · <strong>Minecraft Plugin Developer</strong> · <strong>Software Tester</strong>
+</p>
 
-I build Minecraft plugins, work with Java development, server infrastructure and software testing.
+<p align="center">
+  Building Minecraft plugins, working with Java and testing software.
+</p>
 
 ---
 
-## ⚡ About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* ☕ Java Developer
-* ⛏️ Minecraft Plugin Developer
-* 🧪 Software Tester / QA
-* 🖥️ Minecraft Server Development
-* 🔧 Debugging & Problem Solving
-* 🐙 Git & GitHub
+## About Me
 
-I'm interested in building reliable software, creating Minecraft server systems and constantly improving my development skills.
+☕ Java Developer
+⛏️ Minecraft Plugin Developer
+🧪 Software Tester / QA
+🖥️ Minecraft Server Development
+🔧 Debugging & Problem Solving
+
+I enjoy building reliable software, developing Minecraft systems and working on projects where development and testing come together.
+
+</td>
+
+<td width="50%" valign="top">
+
+## Currently
+
+🔨 Working on Minecraft projects
+☕ Improving my Java skills
+🧪 Testing and debugging software
+🚀 Building new projects
+📚 Learning new technologies
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Core Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=maven" height="45" alt="Maven" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="45" alt="Gradle" />
-  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA" />
-</p>
+### Languages
 
-**Development**
+`Java` · `JavaScript` · `SQL` · `YAML` · `JSON`
 
-`Java` · `Maven` · `Gradle` · `Git` · `GitHub`
-
-**Minecraft**
+### Minecraft Development
 
 `Paper` · `Spigot` · `Bukkit` · `Velocity` · `LuckPerms`
 
-**Testing**
+### Tools
 
-`QA` · `Manual Testing` · `Bug Hunting` · `Debugging`
+`Git` · `GitHub` · `Maven` · `Gradle` · `IntelliJ IDEA`
+
+### Testing
+
+`Manual Testing` · `QA` · `Bug Hunting` · `Debugging` · `Problem Solving`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🟦 PaperWorld
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A Minecraft server project focused on custom gameplay, server infrastructure and a high-quality player experience.
+### ⛏️ PaperWorld
 
-**Focus:** Minecraft · Paper · Plugins · Server Infrastructure
+Minecraft server project focused on custom gameplay, plugins, server infrastructure and a high-quality player experience.
 
----
+**Java · Paper · Plugins · Infrastructure**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 DiscordRolesBot
 
-A Discord bot created for server management and role automation.
+Discord bot created for server management, role automation and community features.
 
-**Focus:** Discord · Automation · Server Management
+**Discord · Automation · Bot**
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanZhechev&show_icons=true&hide_border=true&theme=dark&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanZhechev&layout=compact&hide_border=true&theme=dark" height="165"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Activity
+## 🔧 What I Work With
+
+```text
+Java
+ ├── Minecraft Plugins
+ ├── Paper / Spigot
+ ├── Bukkit API
+ └── Velocity
+
+Testing
+ ├── Manual Testing
+ ├── Bug Hunting
+ ├── Debugging
+ └── Quality Assurance
+
+Development
+ ├── Git / GitHub
+ ├── Maven / Gradle
+ └── IntelliJ IDEA
+```
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanZhechev&theme=github-compact&hide_border=true" width="100%"/>
+  <strong>Code • Test • Improve • Repeat</strong>
 </p>
 
 ---
 
 ## 📫 Contact
 
-<p align="left">
-  <a href="https://github.com/IvanZhechev">
-    <img src="https://img.shields.io/badge/GitHub-IvanZhechev-181717?style=for-the-badge&logo=github" />
-  </a>
+<p align="center">
+
+<a href="https://github.com/IvanZhechev">
+GitHub
+</a>
+
+  •  
+
+Discord
+
 </p>
 
 ---
 
 <p align="center">
-  <i>Building. Testing. Improving.</i>
+  <i>Building better projects, one commit at a time.</i>
 </p>
